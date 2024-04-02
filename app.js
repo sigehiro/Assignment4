@@ -5,7 +5,6 @@ const hoverText = document.getElementById("hoverText")
 const clickText = document.getElementById("clickText")
 
 const CapitalName = document.querySelector(".CapitalName")
-// const clickText = document.querySelectorAll("h3")[3]
 
 console.log(clickText);
 
